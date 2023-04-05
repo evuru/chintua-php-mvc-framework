@@ -1,5 +1,5 @@
 {
-    "name": "espac/mvc",
+    "name": "chintua/mvc",
     "autoload": {
         "psr-4": {
             "app\\": "./"
